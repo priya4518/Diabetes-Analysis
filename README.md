@@ -1,2 +1,2 @@
 # Diabetes-Analysis
-Python Project for Diabetes Dataset
+This project is about Healthcare Predictive Analytics (Disease Detection). I choose Diabetes.
